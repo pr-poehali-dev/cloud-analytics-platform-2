@@ -1,0 +1,12 @@
+{
+  "sait-bot-daily": "https://functions.poehali.dev/c6089fab-3f7b-4988-bfb5-9ca38278df99",
+  "excluded-watcher": "https://functions.poehali.dev/2936d419-f1b3-4a26-8603-1cd6f5233771",
+  "admin-bot-posts": "https://functions.poehali.dev/2b96994a-6d5c-41bf-ade3-c563f1dfabf2",
+  "upload-video": "https://functions.poehali.dev/bd26b062-6d55-453f-902a-503ef4f75586",
+  "admin-bot-stories": "https://functions.poehali.dev/ec60a8b1-27ee-4a4b-bad0-d26b3d8a3f30",
+  "tg-user-auth2": "https://functions.poehali.dev/4d894c1d-b7b0-4380-9865-5adea5e69e62",
+  "admin-posts": "https://functions.poehali.dev/1e13ce61-a559-4007-99da-1e06d675990f",
+  "stories-cron": "https://functions.poehali.dev/ab907d44-fb79-4f80-8244-8dd0b61290ae",
+  "tg-user-auth": "https://functions.poehali.dev/a8ca9420-5401-4d13-b212-869df4bf44ce",
+  "admin-auth": "https://functions.poehali.dev/8b8a2dac-5db3-41f5-83ed-01e01fd910d2"
+}

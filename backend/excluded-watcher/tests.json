@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "name": "OPTIONS preflight",
+      "method": "OPTIONS",
+      "path": "/",
+      "expectedStatus": 200
+    },
+    {
+      "name": "GET settings",
+      "method": "GET",
+      "path": "/?action=settings",
+      "expectedStatus": 200
+    },
+    {
+      "name": "GET drivers list",
+      "method": "GET",
+      "path": "/?action=list",
+      "expectedStatus": 200
+    }
+  ]
+}
